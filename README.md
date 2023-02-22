@@ -23,7 +23,7 @@ Use your best practises to implement :
 -   A list of remaining tasks
 -   A list of done tasks
 
-A Task consists of a string and any other property that you deem fit.
+A Task consists of a string and any other properties that you deem fit.
 You should be able to check/uncheck a task, thus chainging its completion status.
 
 Styling and task deletion are optional (I.e. you might not have time to do it).
