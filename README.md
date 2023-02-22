@@ -19,7 +19,7 @@ You will also see any lint errors in the console.
 Code a basic todo App.
 Use your best practises to implement :
 
--   A submit panel
+-   A submit form
 -   A list of remaining tasks
 -   A list of done tasks
 
