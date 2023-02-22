@@ -26,7 +26,7 @@ Use your best practises to implement :
 A Task consists of a string and any other property that you deem fit.
 You should be able to check/uncheck a task, thus chainging its completion status.
 
-Styling and task deletion are optional.
+Styling and task deletion are optional (I.e. you might not have time to do it).
 
 
 ### What is available to you:
@@ -35,3 +35,4 @@ Styling and task deletion are optional.
 -   the latests @mui/material
 -   the uuid package
 
+You can also check https://beta.reactjs.org/ , https://mui.com/  and https://www.npmjs.com/package/uuid for documentation purposes
